@@ -19,6 +19,14 @@ h1{
 h5{
 	 color: black;
 }
+.wel{
+	font-family: serif;
+	color: red;
+	font-size: 500%;
+	text-shadow: 5px 10px 15px yellow;
+
+
+}
 img{
 	max-width: 100%;
 

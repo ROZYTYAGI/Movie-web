@@ -1,0 +1,151 @@
+/*css for body*/
+body {
+    background: tan;
+    color: pink;
+    font-family: "Alegreya";
+    margin: : 0;
+}
+
+/*css for all p*/
+p {
+    font-size: 16%;
+    font-weight: 160%;
+    padding: 3%;
+    text-indent: 2%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/*css for h1*/
+h1 {
+    color: black;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/*css for h5*/
+h5 {
+    color: black;
+}
+
+/*css for h1 of header banner*/
+.wel {
+    font-family: serif;
+    color: red;
+    font-size: 500%;
+    text-shadow: 5px 10px 15px yellow;
+}
+/*css for banner image*/
+.imgs img{
+	width: 100%;
+	height: 250px;
+}
+.canvas img{
+	height: 200px;
+	width: 150px;
+}
+
+/*css for table container images*/
+.table img{
+	height: 200px;
+	width: 150px;
+}
+
+/*css for */
+#mar {
+    background: pink;
+}
+#mar img{
+	height: 200px;
+	width: 150px;
+}
+
+/*css for header*/
+header {
+    background-color: goldenrod;
+    width: 100%;
+    height: 86px;
+}
+/*css for logo*/
+#header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#logo {
+    margin: 20px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: url(../img/index.jpeg) no-repeat center;
+}
+/*css for nav bar*/
+nav {
+    float: right;
+    padding: 25px 20px 0 0;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 15px;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: white;
+}
+
+.current {
+    color: black;
+}
+/*css for banner*/
+.banner {
+    width: 100%;
+    background-color: white;
+}
+
+.banner-inner {
+    max-width: 100%;
+    margin: 0 auto;
+}
+/*css for footer*/
+footer {
+    background-color: blue;
+    width: 100%;
+    height: 30%;
+}
+/*css for social icon of footer*/
+.social {
+    list-style-type: none;
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 46px;
+    margin: 1%;
+    padding: 5% 5% 5% 5%;
+    color: white;
+}
+
+.social i:hover {
+
+
+    color: black;
+}
+
